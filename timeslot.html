@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Time Slot | FocusFlow</title>
+    <link rel="stylesheet" href="timeslot.css">
+</head>
+<body>
+
+    <div class="overlay">
+        <div class="container">
+            <h1 class="title">Choose Your Time Slot</h1>
+            <p class="tagline">Select the duration that fits your study session.</p>
+
+            <div class="time-options" id="timeoptions">
+                 <div class="time-card" data-time="25">30 Minutes</div>
+                <div class="time-card" data-time="45">45 Minutes</div>
+                <div class="time-card" data-time="60">1 Hour</div>
+                <div class="time-card" data-time="120">2 Hours</div>
+            </div>
+            <!-- Add Custom Time -->
+            <div class="form-section">
+                <input type="number" id="customTime" placeholder="Enter custom time (minutes)" min="1">
+                <button type="button" id="addTimeBtn" class="add-btn">Add Time</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="timeslot.js"></script>
+</body>
+</html>
