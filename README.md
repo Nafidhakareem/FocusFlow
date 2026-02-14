@@ -49,7 +49,7 @@
 List the key features of your project:
 - Feature 1: [Time based study sessions .]
 - Feature 2: [Structured study and breaks flow]
-- Feature 3: [SEssion completion Tracking]
+- Feature 3: [Session completion Tracking]
 - Feature 4: [Feedback page after completion]
 
 ---
