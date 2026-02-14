@@ -18,15 +18,15 @@ document.addEventListener("DOMContentLoaded", function () {
     30: [
       {
         type: "study",
-        duration: 1,
+        duration: 20,
         description: "Study: Focus on your main topic 📖",
       },
       {
         type: "break",
-        duration: 1,
+        duration: 5,
         description: `Break: ${hobbiesData.hobbies[0] || "Stretch"}`,
       },
-      { type: "study", duration: 1, description: "Study: Quick review 🧾" },
+      { type: "study", duration: 5, description: "Study: Quick review 🧾" },
     ],
     45: [
       {
@@ -174,3 +174,4 @@ document.addEventListener("DOMContentLoaded", function () {
   // Display session info
   sessionInfo.textContent = `Total Time: ${timeSlot} minutes | Breaks: ${hobbiesData.hobbies.join(", ")}`;
 });
+
