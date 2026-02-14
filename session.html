@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Study Session | FocusFlow</title>
+    <link rel="stylesheet" href="session.css">
+</head>
+<body>
+
+    <div class="overlay">
+        <div class="container">
+            <h1 class="title">Your Study Session 📚</h1>
+            <p class="tagline" id="sessionInfo">Get ready to focus!</p>
+
+            <div id="timerDisplay">00:00</div>
+            <div id="currentTask" class="task">
+                Preparing your personalized plan...
+            </div>
+
+            <button id="startSessionBtn" class="start-btn">
+                Start Session
+            </button>
+            
+        </div>
+    </div>
+
+    <!-- Timer Sound -->
+    <audio id="timerSound" preload="auto">
+        <source src="freesound_community-kitchen-timer-87485.mp3" type="audio/mpeg">
+        Your browser does not support audio.
+    </audio>
+
+    <script src="session.js"></script>
+</body>
+</html>
