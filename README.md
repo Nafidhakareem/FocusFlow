@@ -85,15 +85,13 @@ List the key features of your project:
 #### Screenshots (Add at least 3)
 
 ![Screenshot1](ss1.png)
-*Add caption explaining what this shows*
+this our welcome page and starting our website
 
 ![Screenshot2](ss2.png)
-*Add caption explaining what this shows*
+this is hobby detecting page,it can understand user hobbies
 
 ![Screenshot3](ss3.png)
-*Add caption explaining what this shows*
+user can choose different study goals like exams, study, reading,...
 
-#### Diagrams
 
----
 
