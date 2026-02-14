@@ -6,8 +6,7 @@
 
 ## Basic Details
 
-### Team Name: [SheBIt
-]
+### Team Name: [SheBIt]
 
 ### Team Members
 - Member 1: [Nafidha.U] - [EMEA college of arts and science]
