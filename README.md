@@ -2,27 +2,28 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [FOCUSFLOW] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [SheBIt
+]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Nafidha.U] - [EMEA college of arts and science]
+- Member 2: [Jahana sherin] - [EMEA college of arts and science]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[THis Project is study based website , that helps to students manage their time using structured study session and guided breaks.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Many students struggle to manage thier study time effectively and maintain focus for long periods. Continuous studying without proper breaks leads to tiredness , loss of concentration, and reduce productivity]
 
 ### The Solution
-[How are you solving it?]
+[We solved the problem by organising study time to focused sessions with guided breaks. It helps the students to stay concentrated in structured way.]
 
 ---
 
@@ -31,10 +32,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [HTML, CSS, Javascript]
+- Frameworks used: [NONE]
+- Libraries used: [NONE]
+- Tools used: [VS CODE, Git & GitHub]
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +47,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Time based study sessions .]
+- Feature 2: [Structured study and breaks flow]
+- Feature 3: [SEssion completion Tracking]
+- Feature 4: [Feedback page after completion]
 
 ---
 
@@ -83,7 +84,7 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](screenshot1.png)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
